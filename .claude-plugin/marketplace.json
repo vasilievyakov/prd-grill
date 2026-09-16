@@ -1,16 +1,16 @@
 {
   "name": "ai-lab-skills",
   "owner": {
-    "name": "Yakov / AI-LAB"
+    "name": "Agentic Lab"
   },
   "metadata": {
-    "description": "Скиллы AI-LAB для учеников",
+    "description": "Скиллы Agentic Lab для учеников",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "prd-grill",
-      "description": "Интервью по проекту раундами вопросов, на выходе мини-PRD из 9 блоков по шаблону AI-LAB",
+      "description": "Интервью по проекту раундами вопросов, на выходе мини-PRD из 9 блоков по шаблону Agentic Lab",
       "source": "./",
       "strict": false,
       "skills": [
