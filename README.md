@@ -6,7 +6,7 @@
 
 ![prd-grill](docs/video/prd-grill-explainer.gif)
 
-Ролик собран на базе скилла [HyperFrames](https://hyperframes.heygen.com/) для видео из проекта, переделанного под лабораторию. Полное разрешение: [mp4](docs/video/prd-grill-explainer.mp4).
+Ролик собран кастомным скиллом лаборатории для видео из проекта, построенным поверх [HyperFrames](https://hyperframes.heygen.com/). Полное разрешение: [mp4](docs/video/prd-grill-explainer.mp4).
 
 ## Ради чего
 
