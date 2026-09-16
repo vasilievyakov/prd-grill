@@ -4,11 +4,9 @@
 
 Логика интервью основана на [grill-me](https://github.com/mattpocock/skills) Мэтта Покока: вопросы идут раундами по дереву решений, у каждого вопроса есть варианты, рекомендация и объяснение, на что влияет выбор. Шаблон PRD, пример и промпты агенту взяты из учебного лендинга.
 
-## Видео
+![prd-grill](docs/video/prd-grill-explainer.gif)
 
-![prd-grill: интервью по проекту до первой строки кода](docs/video/prd-grill-explainer.gif)
-
-Объяснялка на 3:18 без звука: зачем PRD, девять блоков по одному, как выглядит раунд, что скилл ловит в ответах, три промпта агенту и установка. В полном разрешении: [docs/video/prd-grill-explainer.mp4](docs/video/prd-grill-explainer.mp4). Кадры и раскадровка собраны на [HyperFrames](https://hyperframes.heygen.com/).
+Ролик собран на базе скилла [HyperFrames](https://hyperframes.heygen.com/) для видео из проекта, переделанного под лабораторию. Полное разрешение: [mp4](docs/video/prd-grill-explainer.mp4).
 
 ## Ради чего
 
