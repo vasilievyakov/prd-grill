@@ -1,16 +1,16 @@
 {
   "name": "ai-lab-skills",
   "owner": {
-    "name": "Agentic Lab"
+    "name": "Яков Васильев"
   },
   "metadata": {
-    "description": "Скиллы Agentic Lab для участников лаборатории",
+    "description": "Скиллы для участников лаборатории",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "prd-grill",
-      "description": "Интервью по проекту раундами вопросов, на выходе мини-PRD из 9 блоков по шаблону Agentic Lab",
+      "description": "Интервью по проекту раундами вопросов, на выходе мини-PRD из 9 блоков по шаблону лаборатории",
       "source": "./",
       "strict": false,
       "skills": [

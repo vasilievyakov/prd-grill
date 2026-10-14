@@ -1,6 +1,6 @@
 # Шаблон мини-PRD
 
-Источник: https://prd-agentic-lab.vercel.app (Agentic Lab). Заголовки и порядок блоков не менять.
+Источник: https://prd-for-agents.vercel.app. Заголовки и порядок блоков не менять.
 
 ```markdown
 # PRD: [название проекта]
